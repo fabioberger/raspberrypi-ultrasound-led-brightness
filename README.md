@@ -6,6 +6,6 @@ This repo contains the code for my [blog post](https://fabioberger.github.io/blo
 
 ### How
 
-In order to use, clone this repo on your raspberry pi and run:
+In order to use, clone this repo onto your raspberry pi and run:
 
 	sudo python main.py
